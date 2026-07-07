@@ -1,4 +1,5 @@
-## Hi there 👋
+## ¿Cómo estás? 
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/419a67d1-79e8-4293-a8a6-05ed95960ab4" />
 
 <!--
 **G1r2E3s4I5/G1r2E3s4I5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
